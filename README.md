@@ -4,7 +4,7 @@
 In this paper, we introduced a sparse representation model for the channel with dynamic-grid parameters to eliminate the location quantization error and derived an approximation for the likelihood with the presence of PHN. Based on these, we proposed an efficient algorithm for joint estimation of user location and sparse channel of the massive MIMO system.
 ![fishy](images/SigModel.png)
 
-We imposed a SRED prior distribution on the channels to capture the structured sparsity in the angular-delay domain.
+We imposed a SRED prior distribution on the channels to capture the structured sparsity in the angular-delay domain, which is good at promoting sparsity compared to Gaussian.
 ![fishy](images/DisCompare.png)
 
 # Introduction of the codes
