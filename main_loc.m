@@ -1,4 +1,3 @@
-%% OK, let's start with multipath coding!
 clear;
 close;
 tic;
